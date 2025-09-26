@@ -1,0 +1,9 @@
+{
+"name": "vercel-ai-chat",
+"version": "1.0.0",
+"private": true,
+"engines": { "node": "18.x" },
+"scripts": {
+"start": "vercel dev"
+}
+}
